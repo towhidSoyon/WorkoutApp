@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/calender.xml" value="0.1925" />
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1765" />
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/circular_progress_gray.xml" value="0.1765" />
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.1765" />
@@ -10,8 +11,15 @@
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.199" />
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/item_circular_thin_color_accent_border.xml" value="0.199" />
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.1765" />
+        <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/radio_group_tab_background.xml" value="0.21" />
+        <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/units_tab_selector.xml" value="0.21" />
+        <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/drawable/units_tab_text_color_selector.xml" value="0.21" />
+        <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/layout/activity_bmiactivity.xml" value="0.36666666666666664" />
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/layout/activity_excersice.xml" value="0.358695652173913" />
+        <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/layout/activity_finish.xml" value="0.36666666666666664" />
+        <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/layout/activity_history.xml" value="0.36666666666666664" />
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/layout/activity_main.xml" value="0.2845227062094532" />
+        <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/layout/dialog_custom_back_information.xml" value="0.36666666666666664" />
         <entry key="..\:/workOfAndroid/WorkoutApp/app/src/main/res/layout/item_exercise_status.xml" value="0.36666666666666664" />
       </map>
     </option>
